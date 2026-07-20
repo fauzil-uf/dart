@@ -12,7 +12,7 @@ void main() {
   //jawaban nomor 3
   int k = 0;
   while (k < 4) {
-    print("Fauzil");
+    print("Fauzil\n");
     k++;
   }
   //jawaban nomor 4
